@@ -4,13 +4,13 @@
 The Mission To Mars activity required scraping 4 different webpages for a variety of information from article titles, to tables, to images. 
 
 ### Dependencies
-You need to utilize the following libraries:
--Pandas
--BeautifulSoup
--Splinter
--Flask
--PyMongo
--ChromeDriverExtension
+You need to utilize the following libraries:</br>
+-Pandas</br>
+-BeautifulSoup</br>
+-Splinter</br>
+-Flask</br>
+-PyMongo</br>
+-ChromeDriverExtension</br>
 
 ### Procedure
 
